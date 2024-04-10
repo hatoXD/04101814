@@ -1,6 +1,6 @@
 {
   "name": "react.dev",
-  "homepage":"https://hatoXD.github.io/2024apr10",
+  "homepage": "https://hatoXD.github.io/04101814",
   "version": "0.0.0",
   "main": "/src/index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
